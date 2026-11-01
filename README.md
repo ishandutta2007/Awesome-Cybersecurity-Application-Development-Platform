@@ -193,3 +193,12 @@ Star the repo if you find it useful!
 **Made for security engineers, SOC teams, and organizations building transparent security automation solutions.**
 
 Let's make Cybersecurity Application Development Platforms more open, data-driven, and automation-friendly.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cybersecurity-Application-Development-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cybersecurity-Application-Development-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cybersecurity-Application-Development-Platform_growth.svg">
+  </picture>
+</a>
