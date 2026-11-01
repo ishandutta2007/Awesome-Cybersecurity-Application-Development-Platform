@@ -61,7 +61,7 @@ The table below catalogs premier commercial security application development pla
 
 ## 🔓 Open-Source GitHub Projects
 
-The table below catalogs premier open-source platforms for security application development, workflow automation, indicator enrichment, and adversary emulation. Repositories are ordered strictly descending by GitHub Stars_Count. 🌟
+The table below catalogs premier open-source platforms for security application development, workflow automation, indicator enrichment, and adversary emulation. Repositories are ordered strictly descending by GitHub_Stars_Count. 🌟
 
 | Project / Repository | GitHub_Stars | Primary License | Architecture & Key Capabilities |
 | :--- | :--- | :--- | :--- |
